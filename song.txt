@@ -1,4 +1,9 @@
 home lab 3
 я рібака туруруру
 i wasted
+<<<<<<< HEAD
+=======
+sdfsdf
+i love greeen
+>>>>>>> 485467603c0badb651839b5b096f3f7190d18336
 
